@@ -21,3 +21,9 @@
 
 - 7days-golang
 > https://github.com/geektutu/7days-golang
+
+- jupiter
+> https://github.com/douyu/jupiter
+
+- Tinode Instant Messaging Server
+> https://github.com/tinode/chat
