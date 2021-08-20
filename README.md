@@ -4,6 +4,12 @@
 
 ### 学习网站
 
+- Introduction-to-Golang
+> https://github.com/0voice/Introduction-to-Golang
+
+- f
+> https://github.com/geektutu/7days-golang
+
 - Go入门指南
 > https://github.com/unknwon/the-way-to-go_ZH_CN
 
