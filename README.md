@@ -10,6 +10,10 @@
 - f
 > https://github.com/geektutu/7days-golang
 
+- leetcode-go
+
+> https://github.com/halfrost/LeetCode-Go
+
 - Go入门指南
 > https://github.com/unknwon/the-way-to-go_ZH_CN
 
