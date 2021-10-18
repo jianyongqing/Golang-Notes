@@ -1,4 +1,4 @@
-<h1 align="center">Go语言编程</h1>
+<h1 align="center">Golang-Notes</h1>
 
 > 官网：https://golang.google.cn/
 
