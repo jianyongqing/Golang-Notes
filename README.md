@@ -38,3 +38,5 @@
 - [Tinode Instant Messaging Server](https://github.com/tinode/chat)
 
 - [cloudreve](https://github.com/cloudreve/Cloudreve)
+
+- [golang项目推荐](https://www.zhihu.com/question/478271918/answer/2544900683)
