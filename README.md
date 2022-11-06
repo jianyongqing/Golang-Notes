@@ -36,3 +36,5 @@
 - [Go-admin](https://github.com/go-admin-team/go-admin)
 
 - [Tinode Instant Messaging Server](https://github.com/tinode/chat)
+
+- [cloudreve](https://github.com/cloudreve/Cloudreve)
