@@ -40,3 +40,5 @@
 - [cloudreve](https://github.com/cloudreve/Cloudreve)
 
 - [golang项目推荐](https://www.zhihu.com/question/478271918/answer/2544900683)
+
+- [实战 Go：怎样快速实现一个极简任务调度系统](https://mp.weixin.qq.com/s/X-_ahkfcDutvh3amRUzfzg)
